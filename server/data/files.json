@@ -1,0 +1,34 @@
+{
+    "obj1":{
+        "walletId":"0x43417610B847433dC0ab113193D8c9A550Bd0664",
+        "filename":"12thmarksheet",
+        "filetype":"PDF",
+        "uploadedDate":"29/09/2021",
+        "category":"education",
+        "access":[]
+    },
+    "obj2":{
+        "walletId":"0x43417610B847433dC0ab113193D8c9A550Bd0664",
+        "filename":"10thmarkshet",
+        "filetype":"PDF",
+        "uploadedDate":"29/09/2021",
+        "category":"education",
+        "access":[]
+    },
+    "obj3":{
+        "walletId":"0x43417610B847433dC0ab113193D8c9A550Bd0664",
+        "filename":"House plan",
+        "filetype":"PDF",
+        "uploadedDate":"29/09/2021",
+        "category":"others",
+        "access":[]
+    },
+    "obj4":{
+        "walletId":"0x43417610B847433dC0ab113193D8c9A550Bd0664",
+        "filename":"Resume",
+        "filetype":"PDF",
+        "uploadedDate":"29/09/2021",
+        "category":"work",
+        "access":[]
+    }
+}
